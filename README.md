@@ -18,6 +18,6 @@ Japanese-styled building model design . Thie project was done by using maya.
 ![screenshot](Winter.jpg)
 ![screenshot](Winter_2_calligraphy.jpg)
 ![screenshot](process_3.PNG)
-![screenshot](process_4.PNG)
+![screenshot](process_4 .PNG)
 
 
